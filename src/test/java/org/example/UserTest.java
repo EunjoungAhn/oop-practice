@@ -14,7 +14,7 @@ class UserTest {
 
         //when
         //user.initPassword(new CorrectFixedPasswordGenerator());
-        user.initPassword(() -> "abcdefgh");
+        user.initPassword(() -> "abcdefgh"); //PasswordGenerator에 @FunctionalInterface을 적용하여서 람다 가능
 
         //then
         assertThat(user.getPassword()).isNotNull();
@@ -29,7 +29,7 @@ class UserTest {
         //when
         //user.initPassword(new WrongFixedPasswordGenerator());
         //구현체를 만들 필요 없지 적용
-        user.initPassword(() -> "ab");
+        user.initPassword(() -> "ab"); //PasswordGenerator에 @FunctionalInterface을 적용하여서 람다 가능
 
         //then
         assertThat(user.getPassword()).isNull();
