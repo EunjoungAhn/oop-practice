@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f135e2-05f3-417b-a668-6be3da62c5b6" name="Changes" comment="객체지향 프로그래밍 실습 - 사칙 연산 계산기">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GradeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CourseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GradeCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="72f135e2-05f3-417b-a668-6be3da62c5b6" name="Changes" comment="객체지향 - 음식점에서 음식 주문하는 과정" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +169,7 @@
       <updated>1662464992044</updated>
       <workItem from="1662464995276" duration="4944000" />
       <workItem from="1662470044248" duration="4000" />
-      <workItem from="1662517334111" duration="10851000" />
+      <workItem from="1662517334111" duration="11133000" />
     </task>
     <task id="LOCAL-00001" summary="비빌번호 테스트코드 실습">
       <created>1662469784807</created>
@@ -199,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662546426229</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="객체지향 - 학점 계산기">
+      <created>1662550620491</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662550620491</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +220,8 @@
     <MESSAGE value="비빌번호 테스트코드 실습" />
     <MESSAGE value="테스트코드 실습" />
     <MESSAGE value="객체지향 프로그래밍 실습 - 사칙 연산 계산기" />
-    <option name="LAST_COMMIT_MESSAGE" value="객체지향 프로그래밍 실습 - 사칙 연산 계산기" />
+    <MESSAGE value="객체지향 - 학점 계산기" />
+    <option name="LAST_COMMIT_MESSAGE" value="객체지향 - 학점 계산기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

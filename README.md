@@ -1,6 +1,3 @@
-# oop-practice
-비밀번호 테스트 환경 실습
-
 # 개발 환경
 JDK - Java version 11.0.15
 <br>
